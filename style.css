@@ -1,0 +1,10 @@
+@front-face {
+    front-family: ’SP Pro Text’
+front-style: normal 
+front-weight: 300
+scr:
+local(’SF Pro Text’)
+url(’front/SEProText-Light.woff2’),format(’woff2’)
+                         woff               woff
+                         tff                 ttf
+                         eot                 eot
