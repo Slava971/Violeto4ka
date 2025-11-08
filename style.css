@@ -4,8 +4,8 @@
     font-weight: 300;
     scr:
     local('SF Pro Text')
-    url('front/SEProText-Light.woff2'),format('woff2'),
-    url('front/SEProText-Light.woff'),format('woff'),
-    url('front/SEProText-Light.ttf'),format('ttf'),
-    url('front/SEProText-Light.eot'),format('eot')''
+    url('front/SEProText-Light.woff2'), format('woff2'),
+    url('front/SEProText-Light.woff'), format('woff'),
+    url('front/SEProText-Light.ttf'), format('ttf'),
+    url('front/SEProText-Light.eot'), format('eot')''
 }
